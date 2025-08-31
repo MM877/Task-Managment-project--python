@@ -1,0 +1,42 @@
+[
+  {
+    "type": "PersonalTask",
+    "title": "stope",
+    "description": "fd",
+    "date": "2005-11-10",
+    "status": "incomplete",
+    "category": "Family"
+  },
+  {
+    "type": "PersonalTask",
+    "title": "WATRER",
+    "description": "KEEP HYDRATED",
+    "date": "2025-01-01",
+    "status": "incomplete",
+    "category": "Health"
+  },
+  {
+    "type": "WorkTask",
+    "title": "dz",
+    "description": "dfds",
+    "date": "2005-01-10",
+    "status": "in progress",
+    "priority": "High"
+  },
+  {
+    "type": "WorkTask",
+    "title": "homework",
+    "description": "adad",
+    "date": "2025-01-01",
+    "status": "incomplete",
+    "priority": "High"
+  },
+  {
+    "type": "PersonalTask",
+    "title": "drink water",
+    "description": "keep hyd",
+    "date": "2025-10-10",
+    "status": "incomplete",
+    "category": "Other"
+  }
+]
